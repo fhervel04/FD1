@@ -47,9 +47,6 @@ https://copacogen.desdeparaguay.net/gentv/gentv_py_baja/playlist.m3u8?k=8f597dd8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Ltlcolor.png" group-title="Paraguay", UNIMAS HD
 http://flx.lat:8080//live/MATHIAS2021/st7JNDTCrcCu/94383.ts
 
-#EXTINF:-1 tvg-logo="http://flx.lat:8080/images/f3cf574727502c0bd62f03d23d887925.png" group-title="Paraguay", PARAVISION  FHD
-http://flx.lat:8080//live/MATHIAS2021/st7JNDTCrcCu/94386.ts
-
 #EXTINF:-1  group-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg=w600-h300-pc0xffffff-pd" tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="Deportes",TIGO 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
