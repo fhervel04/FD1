@@ -1,7 +1,7 @@
 #EXTINF:-1  group-logo="https://i.postimg.cc/FszxSFHR/escudo-paraguay.png" tvg-id="" tvg-name=""
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Paraguay", SNT
-https://www.snt.com.py/148c4ade-b8e7-4242-84aa-0e8380705a22
+https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Paraguay", NEXT
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
