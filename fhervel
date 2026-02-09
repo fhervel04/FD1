@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fR3wPPM9/snt.png" group-title="Paraguay", SNT
 https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJbMLjjd/EL-TRECE.png" group-title="Paraguay", EL TRECE
+https://cdndirector.dailymotion.com/cdn/live/video/x9ksaba.m3u8?sec=j3HgXskXw2uP6ypbrnK5j16aDhJg9z18XQ0qNjXptLA5XJhOziXkbVX2e8s4_CpIBXmBe_iYixw-M323A1HLd_4TZqVhd4qtApqExGb4Gbo9p5PnFLhCTtxjE9FRYstR&dmTs=320131&dmV1st=775a2bd2-0f4b-7d05-759a-fae09a6372cd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCf0stxW/telefuturo.jpg" group-title="Paraguay", TELEFUTURO
 https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8?k=c59186bf8824507337bd6b88481fa5bbf8371a38ced0f20ded2e34772ee4aa4c&exp=1770648339
 
@@ -22,10 +25,10 @@ https://copaco.desdeparaguay.net:443/rockandpoptv/rockandpoptv_baja/playlist.m3u
 https://tigocloudgen.desdeparaguay.net/rockandpoptv/rockandpoptv_baja/chunklist_w2012384391.m3u8?K=dd3667f7cdf9c31c6282e16698b1013f282c441d5246bc378e3fa26a73826a7382d10&exp=1757354181
 
 #EXTINF:-1 tvg-logo="https://monumental.com.py/wp-content/uploads/2024/11/cropped-logo-webmonu-450x290-1.png" group-title="Paraguay", MONUMENTAL TV
-https://latintop.alwaysdata.net/cine_series/samples/gen/gen.php
+https://mdstrm.com/audio/62d81ca6a459e4082203c95b/live.m3u8?_=1770648924952&dnt=true&player=62f2c47b08932a08285a47f5&uid=ebFBlI4k0uerGVT4hts6OJbT325lg0ws&sid=05AU38kpOvxfp2aGCwDdBX81O27Bkn5r&pid=xYoIz1CVaHUQPJhy9vXJ99jnLgWHszzj&an=Monumental-vivo&at=web-app&av=v1.0.50&sc=0&ref=www.monumental.com.py&res=1280x800&CMCD=cid%3D%2262d81ca6a459e4082203c95b%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22xYoIz1CVaHUQPJhy9vXJ99jnLgWHszzj%22%2Csu
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Paraguay", C9N
-https://d1y0t05eznkmpn.cloudfront.net/index.m3u8
+https://d2qsan2ut81n2k.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Paraguay", UnionTV
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
