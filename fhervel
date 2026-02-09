@@ -1,3 +1,6 @@
+#EXTINF:-9,SNT
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEyMDM2ODgzLCJzZXNzaW9uIjoiMTgxLjEyNi4xOTQuMTMzIiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMTk0LjEzMyJdfSwic2lnbmF0dXJlIjoiYjRkOTM0YmNiYjMxODAwM2E1ZTkyZGY3NTgxYmRhNmFkNjFjZWJiYiJ9
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Paraguay", NEXT
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
