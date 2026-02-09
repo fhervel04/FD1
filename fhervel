@@ -24,7 +24,7 @@ https://copaco.desdeparaguay.net:443/rockandpoptv/rockandpoptv_baja/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="Paraguay", ROCK & POP TV 2
 https://tigocloudgen.desdeparaguay.net/rockandpoptv/rockandpoptv_baja/chunklist_w2012384391.m3u8?K=dd3667f7cdf9c31c6282e16698b1013f282c441d5246bc378e3fa26a73826a7382d10&exp=1757354181
 
-#EXTINF:-1 tvg-logo="https://monumental.com.py/wp-content/uploads/2024/11/cropped-logo-webmonu-450x290-1.png" group-title="Paraguay", MONUMENTAL TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6QGc3CN1/monumental.png" group-title="Paraguay", MONUMENTAL TV
 https://copacotf.desdeparaguay.net/monumentaltv/monumentaltv_baja/playlist.m3u8?k=55d4f3212e2d55ec43b511ddcfdd5050a202d8884fd589c7e3a88e00c00a0151&exp=1770649023
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Paraguay", C9N
