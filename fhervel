@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZw1NwWN/escudo-paraguay-frente-logo-png-seeklogo-48981.png" group-title="Paraguay", SNT
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SNT)/index.m3u8
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b1200000.m3u8?…
 
 #EXTINF:-1  group-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg=w600-h300-pc0xffffff-pd" tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="Deportes",TIGO 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
