@@ -25,7 +25,7 @@ https://copaco.desdeparaguay.net:443/rockandpoptv/rockandpoptv_baja/playlist.m3u
 https://tigocloudgen.desdeparaguay.net/rockandpoptv/rockandpoptv_baja/chunklist_w2012384391.m3u8?K=dd3667f7cdf9c31c6282e16698b1013f282c441d5246bc378e3fa26a73826a7382d10&exp=1757354181
 
 #EXTINF:-1 tvg-logo="https://monumental.com.py/wp-content/uploads/2024/11/cropped-logo-webmonu-450x290-1.png" group-title="Paraguay", MONUMENTAL TV
-https://mdstrm.com/audio/62d81ca6a459e4082203c95b/live.m3u8?_=1770648924952&dnt=true&player=62f2c47b08932a08285a47f5&uid=ebFBlI4k0uerGVT4hts6OJbT325lg0ws&sid=05AU38kpOvxfp2aGCwDdBX81O27Bkn5r&pid=xYoIz1CVaHUQPJhy9vXJ99jnLgWHszzj&an=Monumental-vivo&at=web-app&av=v1.0.50&sc=0&ref=www.monumental.com.py&res=1280x800&CMCD=cid%3D%2262d81ca6a459e4082203c95b%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22xYoIz1CVaHUQPJhy9vXJ99jnLgWHszzj%22%2Csu
+https://copacotf.desdeparaguay.net/monumentaltv/monumentaltv_baja/playlist.m3u8?k=55d4f3212e2d55ec43b511ddcfdd5050a202d8884fd589c7e3a88e00c00a0151&exp=1770649023
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Paraguay", C9N
 https://d2qsan2ut81n2k.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8
