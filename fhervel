@@ -40,7 +40,7 @@ https://copacogen.desdeparaguay.net/gentv/gentv_py_baja/chunklist_w1882994944.m3
 
 ----------------------------------------------------------------
 
-#EXTINF:-1  group-logo="https://i.postimg.cc/ZK5sFBmz/sports-store.jpg" tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="DEPORTES",TIGO 2
+#EXTINF:-1  group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/320px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="TIGO",TIGO 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -49,7 +49,7 @@ https://copacogen.desdeparaguay.net/gentv/gentv_py_baja/chunklist_w1882994944.m3
 #EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
 https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="DEPORTES",TIGO 1
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="TIGO",TIGO 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -57,7 +57,7 @@ https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/in
 #KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c
 https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="DEPORTES", TIGO 3
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="TIGO", TIGO 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -223,3 +223,216 @@ https://live-atv-cdn.izzigo.tv/4/out/u/dash/SONY-MOVIES-HD/default.mpd
 
 ----------------------------------------------------------------
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed936cd5cb59eeee83addafb446662a4:dd4b7aeb2bc000468883296e7ae4a09b
+#EXTINF:-1 group-title="Argentina"  tvg-id="America 24.uy" tvg-name="AME24" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/2944696007343.png" tvg-group="Noticias", A24
+https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd1767fe3554f1285222b5610105c0e9:839d5b1eec7eb70d68c1e1531fc0d6d4
+#EXTINF:-1 group-title="Argentina"  tvg-id="C5N.uy" tvg-name="C5NOT" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/160/160/0/0/8952752307709.png" tvg-group="Noticias", C5N
+https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b35aecc554b859a97cf11b892731af1f:3a5da1a7c6a5cc6e488bdbbbf09132ff
+#EXTINF:-1 group-title="Argentina"  tvg-id="Canal 26.uy" tvg-name="CAN26" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/361/CH_LOGO/160/160/0/0/34056872073.png" tvg-group="Noticias", Canal 26
+https://cdn.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=194f0682180e147f7928078dcc78a019:ddfc08545e74a6bd8870f1189cd1bec0
+#EXTINF:-1 group-title="Argentina"  tvg-id="Cronica TV.uy" tvg-name="" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/160/160/0/0/90907313073986.png" tvg-group="Noticias", Crónica
+https://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a002010b506854599dffbb8b9048ec7c:160eedf85229da919a7c5eec4fbef809
+#EXTINF:-1 group-title="Argentina"  tvg-id="La Nacion.uy" tvg-name="LNAC+" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png" tvg-group="Noticias", La Nación +
+https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b4ebe3c68c4c95c7639096e76c233d0:0c48cd5e3298b762a099acdc05a5182a
+#EXTINF:-1 group-title="Argentina"  tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png" tvg-group="Noticias", TN
+https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+----------------------------------------------------------------
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1904c4d846a99e940903174bdbab74f0:08a4ca972cd037a1fe042515c310bfe1
+#EXTINF:-1 ch-number="100" tvg-id="DeporTV.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/48/CH_LOGO/160/160/0/0/13868550072195.png" group-title="Deportes", DeporTV
+https://cdn.sensa.com.ar/live/eds/Deportv/live_dash_cld/Deportv.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="119" tvg-id="Claro Sports HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3441/CH_LOGO/160/160/0/0/61680399078962.png" group-title="Deportes", Claro Sports
+https://cdn.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bad94ad091751a8adf0369f80ca83d17:be43a68903a920561dc14daf19229d97
+#EXTINF:-1 ch-number="117" tvg-id="TyC Sports 2.ar" tvg-logo="https://i.postimg.cc/fT506CJ1/https://geo.edge.pontiscloud.com:9002/images/vod/vod/160/160/0/0/84523092279291.png" group-title="Deportes", Sensa Deportes
+https://cdn.sensa.com.ar/bpk-tv/SenalEventos/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2
+#EXTINF:-1 ch-number="114" tvg-id="TYC" tvg-name="TyC Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Deportes", TyC Sports
+https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b480459bb4255ddfd94078ac877df803:3de0121491eb7abfda29e71fecc1154c
+#EXTINF:-1 ch-number="114" tvg-id="TYC" tvg-name="TyC Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/121/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Deportes", TyC Sports
+https://cdn.sensa.com.ar/bpk-tv/TYCSports/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="115" tvg-id="TyC Sports 2.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/vod/vod/160/160/0/0/49923.png" group-title="Deportes", Sensa Eventos
+https://cdn.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
+#EXTINF:-1 ch-number="101" tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Deportes", ESPN
+https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8bd6496d2444301c9d4d0feca9d75b:3fd1967701ba2897729187b60094c158
+#EXTINF:-1 ch-number="102" tvg-id="ESPN 2 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png" group-title="Deportes", ESPN 2
+https://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+ 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8836252059b793a79173838dc1186ff1:aa16f90e51ce5652dab93834e434caa8
+#EXTINF:-1 ch-number="103" tvg-id="ESPN 3 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/160/160/0/0/85904894074972.png" group-title="Deportes", ESPN 3
+https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=034653d3413f23e87249d1fb7e68359a:a0d6b849f17c430e9cc02d07739a4e4a
+#EXTINF:-1 ch-number="104" tvg-id="ESPN 4 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/160/160/0/0/16514023071132.png" group-title="Deportes", ESPN 4
+https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667
+#EXTINF:-1 ch-number="111" tvg-id="FOX Sports HD.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="Deportes", FOX Sports
+https://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ec1c5620f5c1553d3238988714e71b2:b8917b12e851dfc7bb8a3b832348b3be
+#EXTINF:-1 ch-number="112" tvg-id="FOX Sports 2.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/94/CH_LOGO/160/160/0/0/91777703072785.png" group-title="Deportes", FOX Sports 2
+https://cdn.sensa.com.ar/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7f87e51c56a87a59cab7ec98fd062db:c3f0d7d067e385900a0e6d4c8e406a68
+#EXTINF:-1 ch-number="113" tvg-id="FOX Sports 3.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/95/CH_LOGO/160/160/0/0/14056054072366.png" group-title="Deportes", FOX Sports 3
+https://cdn.sensa.com.ar/live/eds/FoxSports3/live_dash_cld/FoxSports3.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9a70c294ea75346b991a61c55ff1d8f:7012eb6cd752998ee5cfbe68517491f5
+#EXTINF:-1 ch-number="122" tvg-id="America Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/368/CH_LOGO/160/160/0/0/446218910784.png" group-title="Deportes", América Sports
+https://cdn.sensa.com.ar/live/eds/AmericaSports/live_dash_cld/AmericaSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad1be5752980085910010adb9d72532d:8acfaacb600b382bfe18962964355ce6
+#EXTINF:-1 ch-number="124" tvg-id="El Garage Tv.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1481/CH_LOGO/160/160/0/0/3411412507358.png" group-title="Deportes", Garage TV
+https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=be71d8107de961319fc6a47d9f1c79ad:02071a1c9846318c60480d4086be8e9b
+#EXTINF:-1 ch-number="126" tvg-id="Golf Channel.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/160/160/0/0/7391790707734.png" group-title="Deportes", Golf TV
+https://cdn.sensa.com.ar/live/eds/GolfTV/live_dash_cld/GolfTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
+#EXTINF:-1 ch-number="108" tvg-id="FOX Sports Premium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Deportes", ESPN Premium
+https://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
+#EXTINF:-1 ch-number="108" tvg-id="FOX Sports Premium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Deportes", ESPN Premium
+https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=08fe89bb41ac5f4825bbaa358b3458c7:c1ea85d94fb80f64d53747529e488a75
+#EXTINF:-1 ch-number="109" tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Deportes", TNT Sports Premium
+https://cdn.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3
+#EXTINF:-1 ch-number="109" tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Deportes", TNT Sports Premium
+https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", BEIN SPORTXTRA Ñ
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://image.roku.com/developer_channels/prod/27b05cc60a5abb162cf8af100d030154f00015a942703223fbf079993a6a9f45.png" group-title="DEPORTES" , POKER TOUR esp
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6080381ab7c9ea00074ec64c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1  group-title="DEPORTES" tvg-logo="https://icon2.cleanpng.com/20180601/kql/avo0uye11.webp", PREMIER LIGUE ENG
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+#EXTINF:-1 ch-number="109" ch-number="109" tvg-id="TyCSports2.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="DEPORTES", FS1 MX
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2fbdaa3bea0d0323ae011b318d1db716&key=8726ef7eaf5b9dce15fb6aa9f80bd53f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
+
+#EXTINF:-1 ch-number="109" ch-number="109" tvg-id="TyCSports2.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Fox_Sports_2mx.png/1024px-Fox_Sports_2mx.png" group-title="DEPORTES", FS2 MX
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8836fb04d62dc64c9f8a39ef8640d5eb&key=d4f05ce56c5231b7cdf53455bea58621
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+
+#EXTINF:-1 ch-number="109" ch-number="109" tvg-id="TyCSports2.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Fox_sports_2_mx.png" group-title="DEPORTES", FS3 MX
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=11c8c1c2ef0385cf1e64d44bb9c3a395&key=5769730ffbdc4b2fd8945929d9ace063
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/HtXvSMJ/fsp.png" , FS Premium
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ae26845bd33038a9c0774a0981007294":"63ac662dde310cfb4cc6f9b43b34196d"}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/98lzwzL.png" group-title="DEPORTES",TNT Sports US 1
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6d1708b185c6c4d7b37600520c7cc93c":"1aace05f58d8edef9697fd52cb09f441"}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/98lzwzL.png" group-title="DEPORTES",TNT Sports US 2
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", CLARO SPORTS 2
+http://181.78.106.127:9000/play/ca037/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT Sports Chile
+http://38.199.6.1:17001/play/a036/index.m3u8
+
+#EXTINF:-1 tvg-name="conect" tvg-logo="https://i.postimg.cc/sDTYkQ3g/tudn.png", group-title="DEPORTES", SPORTS TV 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/8897/CH_LOGO/60/40/0/0/5522598607348.png" group-title="DEPORTES", ESPN 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=24f2b3e741f0d9e9a8d516faff38bddc:bbd3fd02fb104e1463ac528a13f67e4a
+https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/9019/CH_LOGO/60/40/0/0/15905984073899.png" group-title="DEPORTES", ESPN 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
+https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png" group-title="DEPORTES", ESPN 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
+https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd
+
+----------------------------------------------------------------
