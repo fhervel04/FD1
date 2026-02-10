@@ -24,9 +24,6 @@ https://copaco.desdeparaguay.net:443/nandutitv/nandutitv_baja/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="PARAGUAY", ROCK & POP TV
 https://copaco.desdeparaguay.net:443/rockandpoptv/rockandpoptv_baja/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="PARAGUAY", ROCK & POP TV 2
-https://tigocloudgen.desdeparaguay.net/rockandpoptv/rockandpoptv_baja/chunklist_w2012384391.m3u8?K=dd3667f7cdf9c31c6282e16698b1013f282c441d5246bc378e3fa26a73826a7382d10&exp=1757354181
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6QGc3CN1/monumental.png" group-title="PARAGUAY", MONUMENTAL TV
 https://copacotf.desdeparaguay.net/monumentaltv/monumentaltv_baja/playlist.m3u8?k=1a1aff750f014c1fd7e77fc6ab7ed490203d4739d8c75e9b4c95e7064c420187&exp=1770649275
 
@@ -45,7 +42,7 @@ https://tv.invasivamedia.com/hls/limtv.m3u8
 #EXTINF:-1 tvg-id="GEN.py" tvg-name=""  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online.png"  group-title="PARAGUAY", GEN.py
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49eb924ba998ca7fbbaee30dcef1ecb4:6e131b04b2e87598fb588ac205673698
-https://copacogen.desdeparaguay.net/gentv/gentv_py_baja/playlist.m3u8?k=8f597dd8f8b43c76ca777f87d8c55dcbf0055e9ba68bfbb20dad8812d3777ed0&exp=1770648538
+https://copacogen.desdeparaguay.net/gentv/gentv_py_baja/chunklist_w1882994944.m3u8?k=f0a8e2bd16208c3fbda8545ea2c23c371d33835e74deb5b73582298ff09d384d&exp=1770729840
 
 ----------------------------------------------------------------
 
