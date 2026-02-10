@@ -68,6 +68,8 @@ https://d2slu3qf332d0d.cloudfront.net/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/in
 
 ----------------------------------------------------------------
 
+#EXTINF:-1  group-logo="https://i.postimg.cc/Z57NNjRy/cine.jpg" tvg-id="" tvg-name=""
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b3d89f0e099f750bab4f8c2ebc4c7ec:114313f734e7a8e84b0ca6d16bd652cb
 #EXTINF:-1 ch-number="309" tvg-id="Cinemax HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/47/CH_LOGO/160/160/0/0/60951863073142.png" group-title="Cine", Cinemax
