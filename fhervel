@@ -293,25 +293,25 @@ https://cdn.sensa.com.ar/live/eds/TNTSeries/live_dash_cld/TNTSeries.mpd?|referer
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Universal/live_dash_cld/Universal.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1  ch-number="343" tvg-id="Universal Premiere.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNIPR.png?raw=true" group-title="Universal+ Pack", Universal Premiere
+#EXTINF:-1  ch-number="343" tvg-id="Universal Premiere.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNIPR.png?raw=true" group-title="Cine", Universal Premiere
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ca479ba8963f132c701eefaa0fb2b5a:bed235194da5e18108c12ef81b324a80
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/UniPre/live_dash_cld/UniPre.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1  ch-number="345" tvg-id="Universal Comedy.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICO.png?raw=true" group-title="Universal+ Pack", Universal Comedy
+#EXTINF:-1  ch-number="345" tvg-id="Universal Comedy.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICO.png?raw=true" group-title="Cine", Universal Comedy
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=94cdab8673fe231a8de57259eac5522b:1125d154649770cc122770531b8f8b30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/UniCom/live_dash_cld/UniCom.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1  ch-number="346" tvg-id="Universal Crime.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICR.png?raw=true" group-title="Universal+ Pack", Universal Crime
+#EXTINF:-1  ch-number="346" tvg-id="Universal Crime.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICR.png?raw=true" group-title="Cine", Universal Crime
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ad1cfe8edbc35b5bab1a66a5ce298b3:25794ae1df1e9908d43a102481e7d311
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/UniCri/live_dash_cld/UniCri.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1  ch-number="347" tvg-id="Universal Reality.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNIRE.png?raw=true" group-title="Universal+ Pack", Universal Reality
+#EXTINF:-1  ch-number="347" tvg-id="Universal Reality.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNIRE.png?raw=true" group-title="Cine", Universal Reality
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfbcbe656b34884d8f8dcc57d2dc51f8:d3e2c03003b443ccedd30d6442fbdd40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
