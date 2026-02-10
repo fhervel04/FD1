@@ -833,31 +833,31 @@ https://cdn.sensa.com.ar/bpk-tv/RadioMaria/default/index.mpd?|referer=https://pl
 
 INTERNACIONALES
 
-#EXTINF:-1  ch-number="605" tvg-id="LasEstrellasLatinAmerica.mx.uy" tvg-logo="https://static.flow.com.ar/images/670/CH_LOGO/350/500/0/0/74835190079.png" group-title="Mundo", Canal De Las Estrellas
+#EXTINF:-1  ch-number="605" tvg-id="LasEstrellasLatinAmerica.mx.uy" tvg-logo="https://static.flow.com.ar/images/670/CH_LOGO/350/500/0/0/74835190079.png" group-title="Noticias del Mundo", Canal De Las Estrellas
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d17e47a4a6feed691363e2e57c2e322:5e4906262b25b3f461eb9c63ea04b500
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Estrellas/live_dash_cld/Estrellas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1  ch-number="606" tvg-id="CNNenEspanol.us.uy" tvg-name="CNNEE" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNNEE.png?raw=true" group-title="Mundo", CNN En Español
+#EXTINF:-1  ch-number="606" tvg-id="CNNenEspanol.us.uy" tvg-name="CNNEE" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNNEE.png?raw=true" group-title="Noticias del Mundo", CNN En Español
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=718f07e2beccf40cc207365ea8a70ef6:672d59d617c4a697025be0fb8d382cc0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/CnnEspanol/live_dash_cld/CnnEspanol.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1  ch-number="607" tvg-id="CNNInternationalLatinAmerica.us.uy" tvg-name="CNNEE" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNNEE.png?raw=true" group-title="Mundo", CNN Internacional
+#EXTINF:-1  ch-number="607" tvg-id="CNNInternationalLatinAmerica.us.uy" tvg-name="CNNEE" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNNEE.png?raw=true" group-title="Noticias del Mundo", CNN Internacional
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=16c07e6ffdddf95b34e666f9fb745eb4:adbd7d96395740ad5a389cba976e31d8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/CnnINT/live_dash_cld/CnnINT.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1  ch-number="609" tvg-id="Deustche Welle.uy" tvg-logo="https://git.io/JOTLM" group-title="Mundo", Deutsche Welle
+#EXTINF:-1  ch-number="609" tvg-id="Deustche Welle.uy" tvg-logo="https://git.io/JOTLM" group-title="Noticias del Mundo", Deutsche Welle
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a24d18dae30689d554afc6fc1348734:2f7420bfacfeac635b9e8ed0b5afa554
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/DWChannel/live_dash_cld/DWChannel.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1  ch-number="617" tvg-id="RaiItaliaAmerica.it.uy" tvg-logo="https://static.flow.com.ar/images/716/CH_LOGO/1920/1080/0/0/577119940729.png" group-title="Mundo", RAI Italia
+#EXTINF:-1  ch-number="617" tvg-id="RaiItaliaAmerica.it.uy" tvg-logo="https://static.flow.com.ar/images/716/CH_LOGO/1920/1080/0/0/577119940729.png" group-title="Noticias del Mundo", RAI Italia
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cd225327cc07001ffff55bd9271b1b2f:faae6578b5c3fde01b9f41fd39696605
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -869,13 +869,13 @@ https://cdn.sensa.com.ar/bpk-tv/RAI/default/index.mpd?|referer=https://player.se
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Telemundo/live_dash_cld/Telemundo.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1  ch-number="622" tvg-id="TVChile.cl.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVNI.png?raw=true" group-title="Mundo", TV Chile
+#EXTINF:-1  ch-number="622" tvg-id="TVChile.cl.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVNI.png?raw=true" group-title="Noticias del Mundo", TV Chile
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b108e54efb596e5d6403a1759deea810:781e087cf7f814fd187f74daa62d112a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/bpk-tv/TVChile/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1  ch-number="623" tvg-id="TVEInternacionalAmerica.es.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVESP.png?raw=true" group-title="Mundo", TVE
+#EXTINF:-1  ch-number="623" tvg-id="TVEInternacionalAmerica.es.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVESP.png?raw=true" group-title="Noticias del Mundo", TVE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=49c79f1d16db45b4e6671c3a7550e8fc:ac26680d5cfdcab87e4139a410b9984b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
