@@ -759,25 +759,25 @@ https://cdn.sensa.com.ar/bpk-tv/Allegro/default/index.mpd?|referer=https://playe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/HTV/live_dash_cld/HTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 ch-number="506" tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/oyoz88f5hzgaua0nje1tp/mimusicaromantica.jpg?rlkey=a0qrjtsg6hxnxumqidg4nftzx&dl=1", Mi Música Romántica
+#EXTINF:-1 ch-number="506" tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/oyoz88f5hzgaua0nje1tp/mimusicaromantica.jpg?rlkey=a0qrjtsg6hxnxumqidg4nftzx&dl=1", group-title="Música y Radios", Mi Música Romántica
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f1be10d0519e0c453105f01319fe407:9976d91bfcdc7dd2148d36af89027762
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 ch-number="507" tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/1yavhav8gktbcc4i9rwo9/mimusicareggaeton.jpg?rlkey=xshw7gl137ob57qqhee5f9xh3&dl=1", Mi Música Reggaetón
+#EXTINF:-1 ch-number="507" tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/1yavhav8gktbcc4i9rwo9/mimusicareggaeton.jpg?rlkey=xshw7gl137ob57qqhee5f9xh3&dl=1", group-title="Música y Radios", Mi Música Reggaetón
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d288fc2da0339c9cfa178be4a07c4cd2:c0e25b5d30b6829b15266e84807a0ca6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 ch-number="508" tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/3d937mfna3nsyxztl23cl/mimusicahits.jpg?rlkey=e4w2p44563gbkx4mx707ayiot&dl=1", Mi Música Hit
+#EXTINF:-1 ch-number="508" tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/3d937mfna3nsyxztl23cl/mimusicahits.jpg?rlkey=e4w2p44563gbkx4mx707ayiot&dl=1", group-title="Música y Radios", Mi Música Hit
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2246c747e5f4e1dc055050d178618935:c6c2a6693bec059ebced788d09d271f3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 ch-number="509" tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/jqpghihetk0a1eg0vzetj/mimusicapop.jpg?rlkey=nsvi3mswdrf3bjhm28d5oqztq&dl=1", Mi Música Pop
+#EXTINF:-1 ch-number="509" tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/jqpghihetk0a1eg0vzetj/mimusicapop.jpg?rlkey=nsvi3mswdrf3bjhm28d5oqztq&dl=1", group-title="Música y Radios", Mi Música Pop
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6f0b2b0142007b8624de0c2d53962c8:46b8fb713fdd09a1c55b85b6f8ad9c9c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -801,7 +801,7 @@ https://cdn.sensa.com.ar/live/eds/MTVLive/live_dash_cld/MTVLive.mpd?|referer=htt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/QuieroMusica/live_dash_cld/QuieroMusica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 ch-number="516" tvg-id="TeleHit.mx" tvg-logo="https://dl.dropbox.com/scl/fi/cnsdchbhpht3u6wibavfe/telehitmusica.jpg?rlkey=y3f4n42wtb7mw94jmg31r6j4e&dl=1", TeleHit Música Plus
+#EXTINF:-1 ch-number="516" tvg-id="TeleHit.mx" tvg-logo="https://dl.dropbox.com/scl/fi/cnsdchbhpht3u6wibavfe/telehitmusica.jpg?rlkey=y3f4n42wtb7mw94jmg31r6j4e&dl=1", group-title="Música y Radios", TeleHit Música Plus
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=930f2b33864637faf2b2dab6c8d0ba92:530e6561cc4197e9eab7bf7b6f35a3ed
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -823,7 +823,7 @@ https://cdn.sensa.com.ar/live/eds/CanalLuz/live_dash_cld/CanalLuz.mpd?|referer=h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/EWTN/live_dash_cld/EWTN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 ch-number="493" tvg-id="Santa-Maria" tvg-logo="https://i.ibb.co/b1fNV1N/santamaria.png", Santa María
+#EXTINF:-1 ch-number="493" tvg-id="Santa-Maria" tvg-logo="https://i.ibb.co/b1fNV1N/santamaria.png", group-title="Música y Radios", Santa María
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b1e631ba089c345f38a0bc04acf459b:1b26ad9df48567b9bdc0216e7711b85e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
