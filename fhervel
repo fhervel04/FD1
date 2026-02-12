@@ -9,7 +9,8 @@ https://live2.eu-north-1b.cf.dmcdn.net/sec2(kyM0D3wzG4Yl4udm8U73OHrXXL5qtZjcBa2-
 https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4PWjZtV/latele.jpg" group-title="Paraguay", LATELE
-https://copacotf.desdeparaguay.net/latele/latele_py_baja/media_w780426192_3018.ts?k=4f55dcec6024fb082f35f6659d31dfcc8358466cf7cecca99fccfd339c611819&exp=1770906285
+https://copacotf.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?k=4f55dcec6024fb082f35f6659d31dfcc8358466cf7cecca99fccfd339c611819&exp=1770906285
+https://copacotf.desdeparaguay.net/latele/latele_py_baja/chunklist_w1937685149.m3u8?k=4f55dcec6024fb082f35f6659d31dfcc8358466cf7cecca99fccfd339c611819&exp=1770906285
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJbMLjjd/EL-TRECE.png" group-title="Paraguay", EL TRECE
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(2el448ghqJAP0QvXCqlB-aDMw0pWw_2xJiRyvZsC7Bb6NRFkEv5W7y44zOzt73EH2deg32JB8WIl38zadUk6hRXIIz1z1vgWzlAQn8Uk29IQO8ttKJOReSoUeUHh-DO5)/cloud/3/x9ksaba/s/live-380.m3u8
