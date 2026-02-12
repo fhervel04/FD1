@@ -15,7 +15,7 @@ https://copacotf.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?k=f2f7353
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(n-01HFPabmpMTHUlYsWlD0WfAz8lq8DYGsNRpolcBeiTntGBnJrg7jwHhc-rBoHWCExEujbBZrWoXPJDIokCY_3-EVHDsJXCINl2vtP_5k-mF1eS-ylThS2JxzBPeVJ8)/cloud/3/x9ksaba/s/live-380.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCf0stxW/telefuturo.jpg" group-title="Paraguay", TELEFUTURO
-https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8?
+https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8?k=aed31b1d62f5dca7967c4ee5edaeb3129d750f8db4a31d15fcbc45932ff2d792&exp=1770898410
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sDCjLmMy/venus-media.jpg" group-title="Paraguay", VENUS MEDIA
 https://zn1tf.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8?k=22aeafd7d238857b8a53eec714420b877882d7c3c2e1aca0521338b931d82790&exp=1770648052
@@ -260,7 +260,7 @@ https://cdn.sensa.com.ar/live/eds/Cinecanal/live_dash_cld/Cinecanal.mpd?|referer
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 ch-number="328" tvg-id="MorbidoTV" tvg-logo="https://dl.dropbox.com/scl/fi/6un36x6dt7errr3wvlqj5/morbido.jpg?rlkey=w7ljs0524jwwh7do59ayla4py&dl=1", Mórbido tv
+#EXTINF:-1 ch-number="328" tvg-id="MorbidoTV" tvg-logo="https://dl.dropbox.com/scl/fi/6un36x6dt7errr3wvlqj5/morbido.jpg?rlkey=w7ljs0524jwwh7do59ayla4py&dl=1", group-title="Cine", Mórbido tv
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a48e923df0b1783bfa0e82a3c51fc20:122676906256fb0154d841936909c57b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -550,7 +550,7 @@ INFANTILES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/sta01/BabyTV/live_dash_cld/BabyTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 ch-number="201" tvg-id="CanalInfantil" tvg-logo="https://dl.dropbox.com/scl/fi/quey4nnf41249gpxk2u14/canal-infantil.jpg?rlkey=nlgxwp78pqffqd6ppl8zsf2o0&dl=1", Canal Infantil
+#EXTINF:-1 ch-number="201" tvg-id="CanalInfantil" tvg-logo="https://dl.dropbox.com/scl/fi/quey4nnf41249gpxk2u14/canal-infantil.jpg?rlkey=nlgxwp78pqffqd6ppl8zsf2o0&dl=1" group-title="Infantiles y Familiares", Canal Infantil
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=39673983f4ba22f0f80c0934ce0424c8:cd9f3498cb63cc72d1317b14a67ab93c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -722,7 +722,7 @@ https://cdn.sensa.com.ar/live/eds/History2/live_dash_cld/History2.mpd?|referer=h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Lifetime/live_dash_cld/Lifetime.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 ch-number="418" tvg-id="Love Nature HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1801/CH_LOGO/800/542/0/0/32909050074718.png", Love Nature
+#EXTINF:-1 ch-number="418" tvg-id="Love Nature HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1801/CH_LOGO/800/542/0/0/32909050074718.png", group-title="Culturales", Love Nature
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea6437084f6c055c7c856f86361e86fa:9791c0e6f72b4a5eacf8bddfa5290209
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -814,7 +814,7 @@ https://cdn.sensa.com.ar/live/eds/Telehit/live_dash_cld/Telehit.mpd?|referer=htt
 
 RELIGION
 
-#EXTINF:-1 ch-number="490" tvg-id="CanalLuz.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png", Canal Luz
+#EXTINF:-1 ch-number="490" tvg-id="CanalLuz.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png", group-title="Religión",Canal Luz
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=43ef5f8823a35d1ac482dc48dca4c273:b535315a329dfd850082d0f441b0c463
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
