@@ -810,7 +810,7 @@ https://cdn.sensa.com.ar/live/eds/Telehit/live_dash_cld/Telehit.mpd?|referer=htt
 
 RELIGION
 
-#EXTINF:-1 group-logo="https://i.postimg.cc/RVmJcJ1Y/Religion-Logo-Graphics-1-12.jpg" tvg-id="" tvg-name=""
+#EXTINF:-1 group-logo="https://i.postimg.cc/TY769ZMb/Religion-Logo-Graphics-1-12.jpg" tvg-id="" tvg-name=""
 
 #EXTINF:-1  ch-number="413" tvg-id="HGTV.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DHGTV.png?raw=true" group-title="Religión", HGTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
