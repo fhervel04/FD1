@@ -12,10 +12,10 @@ https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/
 https://copacotf.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?k=f2f73530cdef7ab69703dbace2329c8491080ea33a6265ba6db9c83590020634&exp=1770650183
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJbMLjjd/EL-TRECE.png" group-title="Paraguay", EL TRECE
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(n-01HFPabmpMTHUlYsWlD0WfAz8lq8DYGsNRpolcBeiTntGBnJrg7jwHhc-rBoHWCExEujbBZrWoXPJDIokCY_3-EVHDsJXCINl2vtP_5k-mF1eS-ylThS2JxzBPeVJ8)/cloud/3/x9ksaba/s/live-380.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(2el448ghqJAP0QvXCqlB-aDMw0pWw_2xJiRyvZsC7Bb6NRFkEv5W7y44zOzt73EH2deg32JB8WIl38zadUk6hRXIIz1z1vgWzlAQn8Uk29IQO8ttKJOReSoUeUHh-DO5)/cloud/3/x9ksaba/s/live-380.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCf0stxW/telefuturo.jpg" group-title="Paraguay", TELEFUTURO
-https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8?k=aed31b1d62f5dca7967c4ee5edaeb3129d750f8db4a31d15fcbc45932ff2d792&exp=1770898410
+https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_baja/media_w1964026844_2999.ts?k=1d69e902471ec6610ce8b1c97713dccc87433c3a67868e42535521815fa4feda&exp=1770906091
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sDCjLmMy/venus-media.jpg" group-title="Paraguay", VENUS MEDIA
 https://zn1tf.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8?k=22aeafd7d238857b8a53eec714420b877882d7c3c2e1aca0521338b931d82790&exp=1770648052
@@ -41,7 +41,7 @@ https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 #EXTINF:-1 tvg-id="GEN.py" tvg-name=""  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online.png"  group-title="Paraguay", GEN.py
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49eb924ba998ca7fbbaee30dcef1ecb4:6e131b04b2e87598fb588ac205673698
-https://copacogen.desdeparaguay.net/gentv/gentv_py_baja/chunklist_w1882994944.m3u8?k=f0a8e2bd16208c3fbda8545ea2c23c371d33835e74deb5b73582298ff09d384d&exp=1770729840
+https://copacogen.desdeparaguay.net/gentv/gentv_py_baja/playlist.m3u8?k=03613e843662af8d4cf237f884cbd893217cb86a4a32d0b13c8dcf549d6be32e&exp=1770906154
 
 ----------------------------------------------------------------
 
