@@ -840,6 +840,8 @@ https://cdn.sensa.com.ar/bpk-tv/RadioMaria/default/index.mpd?|referer=https://pl
 
 INTERNACIONALES
 
+#EXTINF:-1  group-logo="https://i.postimg.cc/MpPh7RBB/noticias.webp" tvg-id="" tvg-name=""
+
 #EXTINF:-1  ch-number="605" tvg-id="LasEstrellasLatinAmerica.mx.uy" tvg-logo="https://static.flow.com.ar/images/670/CH_LOGO/350/500/0/0/74835190079.png" group-title="Noticias del Mundo", Canal De Las Estrellas
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d17e47a4a6feed691363e2e57c2e322:5e4906262b25b3f461eb9c63ea04b500
