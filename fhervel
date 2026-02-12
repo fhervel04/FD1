@@ -2,29 +2,29 @@ PARAGUAY
 
 #EXTINF:-1  group-logo="https://i.postimg.cc/13cQwLzw/bandera-paraguay.jpg" tvg-id="" tvg-name=""
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NF8nGMwn/UNICANAL.jpg" group-title="Paraguay", UNICANAL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NF8nGMwn/UNICANAL.jpg" group-title="Paraguay", Unicanal
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(kyM0D3wzG4Yl4udm8U73OHrXXL5qtZjcBa2-LT7bui4ocNoDp6PtUZdPpkzNVNfJtaK9taq0X2GbPB6QXoKe0kqV3g_Aq9KePdOhd8FDIBBIotPacyPND0By4RkBDDLV)/cloud/3/x9ko9z8/s/live-380.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fR3wPPM9/snt.png" group-title="Paraguay", SNT
 https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4PWjZtV/latele.jpg" group-title="Paraguay", LATELE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4PWjZtV/latele.jpg" group-title="Paraguay", Latele
 https://copacotf.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?k=4f55dcec6024fb082f35f6659d31dfcc8358466cf7cecca99fccfd339c611819&exp=1770906285
 https://copacotf.desdeparaguay.net/latele/latele_py_baja/chunklist_w1937685149.m3u8?k=4f55dcec6024fb082f35f6659d31dfcc8358466cf7cecca99fccfd339c611819&exp=1770906285
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJbMLjjd/EL-TRECE.png" group-title="Paraguay", EL TRECE
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(2el448ghqJAP0QvXCqlB-aDMw0pWw_2xJiRyvZsC7Bb6NRFkEv5W7y44zOzt73EH2deg32JB8WIl38zadUk6hRXIIz1z1vgWzlAQn8Uk29IQO8ttKJOReSoUeUHh-DO5)/cloud/3/x9ksaba/s/live-380.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCf0stxW/telefuturo.jpg" group-title="Paraguay", TELEFUTURO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCf0stxW/telefuturo.jpg" group-title="Paraguay", Telefuturo
 https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_baja/media_w1964026844_2999.ts?k=1d69e902471ec6610ce8b1c97713dccc87433c3a67868e42535521815fa4feda&exp=1770906091
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDCjLmMy/venus-media.jpg" group-title="Paraguay", VENUS MEDIA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDCjLmMy/venus-media.jpg" group-title="Paraguay", Venus Media
 https://zn1tf.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8?k=22aeafd7d238857b8a53eec714420b877882d7c3c2e1aca0521338b931d82790&exp=1770648052
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fW9RWLpN/nanduti-logo.png" group-title="Paraguay", ÑANDUTÍ TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fW9RWLpN/nanduti-logo.png" group-title="Paraguay", Ñanduti TV
 https://copaco.desdeparaguay.net:443/nandutitv/nandutitv_baja/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="Paraguay", ROCK & POP TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="Paraguay", Rock & Pop Tv
 https://copaco.desdeparaguay.net:443/rockandpoptv/rockandpoptv_baja/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6QGc3CN1/monumental.png" group-title="Paraguay", MONUMENTAL TV
@@ -33,7 +33,7 @@ https://copacotf.desdeparaguay.net/monumentaltv/monumentaltv_baja/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5976yTN0/c9nlogo.jpg" group-title="Paraguay", C9N
 https://d2qsan2ut81n2k.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WpFhDSFL/union-tv.png" group-title="Paraguay", UNIONTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WpFhDSFL/union-tv.png" group-title="Paraguay", Union TV
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Paraguay", GO TV
@@ -191,7 +191,7 @@ https://cdn.sensa.com.ar/live/eds/UniCin/live_dash_cld/UniCin.mpd?|referer=https
 #EXTINF:-1 ch-number="349" tvg-id="Warner HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/22/CH_LOGO/160/160/0/0/14633187073787.png" group-title="Cine", Warner TV
 https://cdn.sensa.com.ar/live/eds/Warner/live_dash_cld/Warner.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="CINE", SONY CINE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="CINE", Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Plus
@@ -511,7 +511,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/o
 #EXTINF:-1 tvg-logo="https://i.imgur.com/98lzwzL.png" group-title="Deportes",TNT Sports US 2
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Deportes", CLARO SPORTS 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Deportes", Claro Sports 2
 http://181.78.106.127:9000/play/ca037/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Deportes", TNT Sports Chile
@@ -603,7 +603,7 @@ https://cdn.sensa.com.ar/live/eds/NickJrCo/live_dash_cld/NickJrCo.mpd?|referer=h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/PakaPaka/live_dash_cld/PakaPaka.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1  ch-number="211" tvg-id="PLIM PLIM TV" tvg-logo="https://i.ibb.co/HgqtG9q/plim-plim.png" group-title="Infantiles", PLIM PLIM TV
+#EXTINF:-1  ch-number="211" tvg-id="PLIM PLIM TV" tvg-logo="https://i.ibb.co/HgqtG9q/plim-plim.png" group-title="Infantiles", Plim Plim Tv
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a47bfb9e246f3b8405c1225fae73da9e:a4865fb8742b4541f64ac37370e902a6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -928,7 +928,7 @@ https://nog-live1-ott.izzigo.tv/4/out/u/dash/LASESTRELLAS1HRSSD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=820ee7b6e7e489c285a63a9a39249a31:3bdc524168044491d6f2e51b270f4aa1
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/LASESTRELLAS2HRSHD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwY3MLvh/az-uno.png" group-title="Mexico", AZTECA UNO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwY3MLvh/az-uno.png" group-title="Mexico", Azteca Uno
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=158b196625b3fa3a6cbd45d081d28995:b955044f81ed40faec97bee0d7a20aea
@@ -988,19 +988,19 @@ https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CAPITAL-21-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=74fcb59a5c38a6ee59a13aa32585eb02:483a204a347bc45bc3f3ab27874bc564
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/HERALDOTVHD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZjMhdvp/tv-unam.png" group-title="Mexico", TV UNAM
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZjMhdvp/tv-unam.png" group-title="Mexico", TV Unam
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef2bd499aa32fa45be33013d6b035abc:1f0d60ad49ef43bbb03b392e05a37200
 https://nog-live1-ott.izzigo.tv/5/out/u/dash/TVUNAMSD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/5oiji4u0v8be/3saK5HB9O4BEQC7kLOOuUW/727886854762132674493221025b851b/izzi-logo-canal-tv-tvmigrante.webp" group-title="Mexico", TV MIGRANTE
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/5oiji4u0v8be/3saK5HB9O4BEQC7kLOOuUW/727886854762132674493221025b851b/izzi-logo-canal-tv-tvmigrante.webp" group-title="Mexico", TV Migrante
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c3b5f4a88fad6b32a248be52437c842:b6b5fab0ba30b3d191169738d308512c
 https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/TV-MIGRANTE-SD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbTzqPjv/logomausstv01-scaled-e1761611368789-1024x918.webp" group-title="Mexico", MAUSSAN TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbTzqPjv/logomausstv01-scaled-e1761611368789-1024x918.webp" group-title="Mexico", Maussan Tv
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=445987029f68a15d72f749dc6954da1e:b0b4c0681b371950146dbd03ce63b2d7
