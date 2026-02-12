@@ -1012,7 +1012,7 @@ https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/MAUSSAN-TV-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=190e0dedd5c1ed7f5f76515d5f72058a:8e09da444ee448c2a85b8cd24c2eebe0
 https://nog-live1-ott.izzigo.tv/3/out/u/dash/IMAGENTVHD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhwsnH75/quiero-tv-mx.webp" group-title="Mexico", QUIERO TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhwsnH75/quiero-tv-mx.webp" group-title="Mexico", Quiero TV
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=86e93bd99b1b0550ca60a1516f0c2ded:06835565e588e72d6c60512dff9e24e6
