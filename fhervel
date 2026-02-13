@@ -15,9 +15,6 @@ https://live-sa.streann.tech/megacadena1/megacadena1/chunks.m3u8?auth=eyJ0eXAiOi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNICANAL)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NF8nGMwn/UNICANAL.jpg" group-title="Paraguay", Megacadena
-https://live-sa.streann.tech/megacadena1/megacadena1/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJpcCI6IjE3Ny4yNTEuMjU0LjE1IiwiZXhwIjoxNzcwOTM5Mzg3LCJyaWQiOiI1ZTM0NGE0ZDJjZGNiZTFjNDlmZDg1NmMiLCJrZXkiOiJrZXkxIiwiY2lkIjoiNWU2MmI5NmUyY2RjZmFjMmRkODg4NWRkIn0.FkrAho8lzj6hIG99lnXCyOPirFQCZ9ypbZOJwpixs1o
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fR3wPPM9/snt.png" group-title="Paraguay", SNT
 https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8
 
