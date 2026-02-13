@@ -24,7 +24,7 @@ https://copacotf.desdeparaguay.net/latele/latele_py_baja/media_w197901590_1525.t
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJbMLjjd/EL-TRECE.png" group-title="Paraguay", EL TRECE
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(fFmtk3mln8p5sHZHUt6-INbLSXRG5EpQ8PMCTxAH4YsYe3GkmdbgMkLQLgo9FF4E6wfwLQRxy2Ltjg8XDRAE0ShHKzQAzayaaEUW_FrZ-VqurVy_tFPOzM4k1AqnOCHH)/cloud/3/x9ksaba/s/live-380.m3u8
 
-#EXTINF:-1 tvg-id="Telefuturo.py" tvg-name="Telefuturo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Telefuturo.svg/1200px-Telefuturo.svg.png" group-title="Paraguay",Telefuturo
+#EXTINF:-1 tvg-id="Telefuturo.py" tvg-name="Telefuturo" tvg-logo="https://i.postimg.cc/tCf0stxW/telefuturo.jpg" group-title="Paraguay",Telefuturo
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://www.desdeparaguay.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
