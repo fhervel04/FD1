@@ -2,10 +2,10 @@ PARAGUAY
 
 #EXTINF:-1  group-logo="https://i.postimg.cc/13cQwLzw/bandera-paraguay.jpg" tvg-id="" tvg-name=""
 
-#EXTINF:-1 tvg-id="ABCTVParaguay.py" tvg-name="ABC TV Paraguay" tvg-logo="https://i.imgur.com/tBdgllD.png" group-title="Paraguay",ABC TV Paraguay (720p)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla%2F5.0%26Referer%3Dhttps%3A%2F%2Fwww.abc.com.py%2F
-https://cdn.jwplayer.com/live/broadcast/GQagSggs.mpd
+#EXTINF:-1 tvg-id="ABCTV.py" tvg-name="ABC TV Paraguay" tvg-logo="https://i.imgur.com/tBdgllD.png" group-title="Paraguay",ABC TV Paraguay
+#EXTVLCOPT:http-referrer=https://www.abc.com.py/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(QVOqkUtOdVip1-Kys--vcOfDnRaw5u2qsUTYp_kaAWnjoPVax3h6SwQqhPMCyAf8SPN5k9wiH8UoJyhSxz2dk1lzM6BoJ4taOLfIMnJLlOOSTdd_21Dduf3JfBneltpO)/cloud/3/x9skr3m/d/live-480.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRSYVxjX/megacadena.jpg" group-title="Paraguay", Megacadena
 https://live-sa.streann.tech/megacadena1/megacadena1/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJpcCI6IjE3Ny4yNTEuMjU0LjE1IiwiZXhwIjoxNzcwOTk5MjEzLCJyaWQiOiI1ZTM0NGE0ZDJjZGNiZTFjNDlmZDg1NmMiLCJrZXkiOiJrZXkxIiwiY2lkIjoiNWU2MmI5NmUyY2RjZmFjMmRkODg4NWRkIn0.J-syRQRt4OXrFH6dqf9vl_W53TfBIHkmSRVd6Qd7HYo
