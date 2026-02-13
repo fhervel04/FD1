@@ -2,6 +2,11 @@ PARAGUAY
 
 #EXTINF:-1  group-logo="https://i.postimg.cc/13cQwLzw/bandera-paraguay.jpg" tvg-id="" tvg-name=""
 
+#EXTINF:-1 tvg-id="ABCTVParaguay.py" tvg-name="ABC TV Paraguay" tvg-logo="https://i.imgur.com/tBdgllD.png" group-title="Paraguay",ABC TV Paraguay (720p)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla%2F5.0%26Referer%3Dhttps%3A%2F%2Fwww.abc.com.py%2F
+https://cdn.jwplayer.com/live/broadcast/GQagSggs.mpd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRSYVxjX/megacadena.jpg" group-title="Paraguay", Megacadena
 https://live-sa.streann.tech/megacadena1/megacadena1/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJpcCI6IjE3Ny4yNTEuMjU0LjE1IiwiZXhwIjoxNzcwOTk5MjEzLCJyaWQiOiI1ZTM0NGE0ZDJjZGNiZTFjNDlmZDg1NmMiLCJrZXkiOiJrZXkxIiwiY2lkIjoiNWU2MmI5NmUyY2RjZmFjMmRkODg4NWRkIn0.J-syRQRt4OXrFH6dqf9vl_W53TfBIHkmSRVd6Qd7HYo
 
