@@ -6,7 +6,7 @@ PARAGUAY
 https://live-sa.streann.tech/megacadena1/megacadena1/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJpcCI6IjE3Ny4yNTEuMjU0LjE1IiwiZXhwIjoxNzcwOTk5MjEzLCJyaWQiOiI1ZTM0NGE0ZDJjZGNiZTFjNDlmZDg1NmMiLCJrZXkiOiJrZXkxIiwiY2lkIjoiNWU2MmI5NmUyY2RjZmFjMmRkODg4NWRkIn0.J-syRQRt4OXrFH6dqf9vl_W53TfBIHkmSRVd6Qd7HYo
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NF8nGMwn/UNICANAL.jpg" group-title="Paraguay", Unicanal
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(kyM0D3wzG4Yl4udm8U73OHrXXL5qtZjcBa2-LT7bui4ocNoDp6PtUZdPpkzNVNfJtaK9taq0X2GbPB6QXoKe0kqV3g_Aq9KePdOhd8FDIBBIotPacyPND0By4RkBDDLV)/cloud/3/x9ko9z8/s/live-380.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(q30xPPV5KDe1OFfFSlP-foX5fLSRQLd6LCpxn9vMk85fCH14sYiwf4JfZu424c4d0xccCHQUW08bfOkKWIsL_bm5QW14jhFn95u3KIUMYkSfa8zHdsuGNhPQ3YfTjN08)/cloud/3/x9ko9z8/s/live-380.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NF8nGMwn/UNICANAL.jpg" group-title="Paraguay", Megacadena
 https://live-sa.streann.tech/megacadena1/megacadena1/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJpcCI6IjE3Ny4yNTEuMjU0LjE1IiwiZXhwIjoxNzcwOTM5Mzg3LCJyaWQiOiI1ZTM0NGE0ZDJjZGNiZTFjNDlmZDg1NmMiLCJrZXkiOiJrZXkxIiwiY2lkIjoiNWU2MmI5NmUyY2RjZmFjMmRkODg4NWRkIn0.FkrAho8lzj6hIG99lnXCyOPirFQCZ9ypbZOJwpixs1o
@@ -15,14 +15,13 @@ https://live-sa.streann.tech/megacadena1/megacadena1/chunks.m3u8?auth=eyJ0eXAiOi
 https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4PWjZtV/latele.jpg" group-title="Paraguay", Latele
-https://copacotf.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?k=4f55dcec6024fb082f35f6659d31dfcc8358466cf7cecca99fccfd339c611819&exp=1770906285
-https://copacotf.desdeparaguay.net/latele/latele_py_baja/chunklist_w1937685149.m3u8?k=4f55dcec6024fb082f35f6659d31dfcc8358466cf7cecca99fccfd339c611819&exp=1770906285
+https://copacotf.desdeparaguay.net/latele/latele_py_baja/media_w197901590_1525.ts?k=3ab66039d6e213f4e953fa509c6ac5166cbafd2ea804bff6aff9f14654b1f16c&exp=1770977740
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJbMLjjd/EL-TRECE.png" group-title="Paraguay", EL TRECE
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(2el448ghqJAP0QvXCqlB-aDMw0pWw_2xJiRyvZsC7Bb6NRFkEv5W7y44zOzt73EH2deg32JB8WIl38zadUk6hRXIIz1z1vgWzlAQn8Uk29IQO8ttKJOReSoUeUHh-DO5)/cloud/3/x9ksaba/s/live-380.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCf0stxW/telefuturo.jpg" group-title="Paraguay", Telefuturo
-https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_baja/media_w1964026844_2999.ts?k=1d69e902471ec6610ce8b1c97713dccc87433c3a67868e42535521815fa4feda&exp=1770906091
+https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_baja/media_w684876498_1518.ts?k=29e83bc737f456137cf7b5bf747f8c7b48534d290cbaef4ec8be94f850d25e22&exp=1770977690
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sDCjLmMy/venus-media.jpg" group-title="Paraguay", Venus Media
 https://zn1tf.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8?k=22aeafd7d238857b8a53eec714420b877882d7c3c2e1aca0521338b931d82790&exp=1770648052
@@ -48,7 +47,7 @@ https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 #EXTINF:-1 tvg-id="GEN.py" tvg-name=""  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online.png"  group-title="Paraguay", GEN.py
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49eb924ba998ca7fbbaee30dcef1ecb4:6e131b04b2e87598fb588ac205673698
-https://copacogen.desdeparaguay.net/gentv/gentv_py_baja/playlist.m3u8?k=03613e843662af8d4cf237f884cbd893217cb86a4a32d0b13c8dcf549d6be32e&exp=1770906154
+https://copacogen.desdeparaguay.net/gentv/gentv_py_baja/media_w1446106107_5526.ts?k=9ac2bfe7238491f77287371486baa24e444e64d003eebf667cf811f8221c7db2&exp=1770977843
 
 ----------------------------------------------------------------
 
