@@ -205,6 +205,9 @@ https://cdn.sensa.com.ar/live/eds/TCM/live_dash_cld/TCM.mpd?|referer=https://pla
 #EXTINF:-1 ch-number="339" tvg-id="TNT HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/44/CH_LOGO/160/160/0/0/15119500074230.png" group-title="Cine", TNT
 https://cdn.sensa.com.ar/live/eds/TNT/live_dash_cld/TNT.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", TNT HD
+http://217.26.190.76:8888/play/a0do/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a65e77fb5f2838b2f97c778cc571ac2:bc1f28b1ec619ed7da22fc9a80d3a35d
 #EXTINF:-1 ch-number="344" tvg-id="Universal Cinema.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/160/160/0/0/21817888076947.png" group-title="Cine", Universal Cinema
