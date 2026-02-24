@@ -419,25 +419,22 @@ https://cdn.sensa.com.ar/bpk-tv/TYCSports/default/index.mpd?|referer=https://pla
 #EXTINF:-1 ch-number="115" tvg-id="TyC Sports 2.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/vod/vod/160/160/0/0/49923.png" group-title="Deportes", Sensa Eventos
 https://cdn.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
-#EXTINF:-1 ch-number="101" tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Deportes", ESPN
-https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN
+http://186.33.40.97:8789/play/20
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8bd6496d2444301c9d4d0feca9d75b:3fd1967701ba2897729187b60094c158
-#EXTINF:-1 ch-number="102" tvg-id="ESPN 2 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png" group-title="Deportes", ESPN 2
-https://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
- 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8836252059b793a79173838dc1186ff1:aa16f90e51ce5652dab93834e434caa8
-#EXTINF:-1 ch-number="103" tvg-id="ESPN 3 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/160/160/0/0/85904894074972.png" group-title="Deportes", ESPN 3
-https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 2
+http://186.33.40.97:8789/play/21
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=034653d3413f23e87249d1fb7e68359a:a0d6b849f17c430e9cc02d07739a4e4a
-#EXTINF:-1 ch-number="104" tvg-id="ESPN 4 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/160/160/0/0/16514023071132.png" group-title="Deportes", ESPN 4
-https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 3
+http://186.33.40.97:8789/play/19
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 4
+http://186.33.40.97:8789/play/57
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 5
+http://186.33.40.97:8789/play/54
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 6
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667
