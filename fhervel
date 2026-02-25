@@ -16,7 +16,7 @@ https://live-sa.streann.tech/megacadena1/megacadena1/chunks.m3u8?auth=eyJ0eXAiOi
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(EoREy5XOFw-rLNDXF__M4ZH8aMb5FkXW5bWKuQS6UdRKEm_1f7y9TzBISKdZziKt9s8q670dZ-SgsGExfR3XrgLVxz-slqWV6gd0bb_b0HcIyVOrrUV6LJ4hK4WyeU0m)/cloud/3/x9ko9z8/s/live-380.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fR3wPPM9/snt.png" group-title="Paraguay", SNT
-https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8
+https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/medialist_4276517416086298479_hls.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4PWjZtV/latele.jpg" group-title="Paraguay", Latele
 #EXTVLCOPT:http-referrer=https://www.latele.com.py/en-vivo
@@ -35,7 +35,7 @@ https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_baja/chunklist_w5283
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sDCjLmMy/venus-media.jpg" group-title="Paraguay",Venus Media
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://www.desdeparaguay.com/
-https://zn1tf.desdeparaguay.net/venusmedia/venusmedia/chunklist_w1193497423.m3u8?k=8d3dfeafa1f47af4f08453d97f12d0434b1b2fc7148bc693842524f764a7f76a&exp=1770985690
+https://zn1tf.desdeparaguay.net/venusmedia/venusmedia/media_w638198928_8816.ts?k=5e0017c1c76050374ae91da3b1be91d2c37a04b0331143e68f308df0d55d644a&exp=1772014289
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fW9RWLpN/nanduti-logo.png" group-title="Paraguay", Ñanduti TV
 https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_baja/chunklist_w1259956548.m3u8
