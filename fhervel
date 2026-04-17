@@ -5,15 +5,15 @@ PARAGUAY
 #EXTINF:-1 tvg-id="ABCTV.py" tvg-name="ABC TV Paraguay" tvg-logo="https://i.imgur.com/tBdgllD.png" group-title="Paraguay",ABC TV Paraguay
 #EXTVLCOPT:http-referrer=https://www.abc.com.py/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(Jbo7j24v19eEwtw9-8q-dGE2KbpQcRUpTTL6FwHhZRRg-0dfdYtdjAeG14M0UIF9uDAkUSFKDnr61bURkN7Qn8iPK53wGiPXfrWzU_qAVpdCxfi8dBdbpZYS9Ngq-tpN)/cloud/3/x9skr3m/d/live-480.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(rZmVg2xJkSmjy0oAyG08gKymaNGNLwG9Z_8rwkhEgYDk2TA4Vf_RMklZGmtGVJGqdX0ufsuDLdUiZ2eQsPwOaDhBqZ424K0nl9PqvzFXxj_XLRZD2UNCcYl3AaoyDGjm)/cloud/3/x9skr3m/d/live-480.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRSYVxjX/megacadena.jpg" group-title="Paraguay", Megacadena
-https://live-sa.streann.tech/megacadena1/megacadena1/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJpcCI6IjE3Ny4yNTEuMjU0LjE1IiwiZXhwIjoxNzcxMzQ2NTQyLCJyaWQiOiI1ZTM0NGE0ZDJjZGNiZTFjNDlmZDg1NmMiLCJrZXkiOiJrZXkxIiwiY2lkIjoiNWU2MmI5NmUyY2RjZmFjMmRkODg4NWRkIn0.ShefkDhxBFSfi61aDQEsaoDpTElFQt6SJ1zkbiumzIM
+https://live-sa.streann.tech/megacadena1/megacadena1/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJpcCI6IjE4MS45NC4yNTAuMjMiLCJleHAiOjE3NzY0NTE5NTQsInJpZCI6IjVlMzQ0YTRkMmNkY2JlMWM0OWZkODU2YyIsImtleSI6ImtleTUQDvDUxFShoWWbHougyHjr0tFz3E38fX8e0bnTUpya-P0mXW.cB3LrbtCTlpASJvBnO9L3eOgEUydnKBa7kE66QqBxis
 
 #EXTINF:-1 tvg-id="Unicanal.py" tvg-name="Unicanal" tvg-logo="https://i.postimg.cc/NF8nGMwn/UNICANAL.jpg" group-title="Paraguay",Unicanal
 #EXTVLCOPT:http-referrer=https://www.unicanal.com.py/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(EoREy5XOFw-rLNDXF__M4ZH8aMb5FkXW5bWKuQS6UdRKEm_1f7y9TzBISKdZziKt9s8q670dZ-SgsGExfR3XrgLVxz-slqWV6gd0bb_b0HcIyVOrrUV6LJ4hK4WyeU0m)/cloud/3/x9ko9z8/s/live-380.m3u8
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(KZIzWuyfVl6Mm2kP-8LpA9sCSzY7j4vPry8eaI7oelEav5a4D9YpNKydFkX375xcgey5x06P0QQ_EME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf-4PkZtcj)/cloud/3/x9ko9z8/s/live-380.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fR3wPPM9/snt.png" group-title="Paraguay", SNT
 https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/medialist_4276517416086298479_hls.m3u8
@@ -21,7 +21,7 @@ https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4PWjZtV/latele.jpg" group-title="Paraguay", Latele
 #EXTVLCOPT:http-referrer=https://www.latele.com.py/en-vivo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://copacotf.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?k=c98eea2380fc84f142880e423e6b0f36541e8b8dc2eb1255ec1471142e7010e6&exp=1770989446
+https://copacotf.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?k=7febc055cb89f7eff2cc73582ba19e6da5bbcaaa2e74d01f4dab77a8d31820e7&exp=1776430475
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJbMLjjd/EL-TRECE.png" group-title="Paraguay", EL TRECE
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(fFmtk3mln8p5sHZHUt6-INbLSXRG5EpQ8PMCTxAH4YsYe3GkmdbgMkLQLgo9FF4E6wfwLQRxy2Ltjg8XDRAE0ShHKzQAzayaaEUW_FrZ-VqurVy_tFPOzM4k1AqnOCHH)/cloud/3/x9ksaba/s/live-380.m3u8
