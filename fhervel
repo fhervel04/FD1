@@ -40,7 +40,7 @@ https://zn1tf.desdeparaguay.net/venusmedia/venusmedia/chunklist_w390039034.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sDCjLmMy/venus-media.jpg" group-title="Paraguay",Desde Paraguay Venus Media
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://www.desdeparaguay.com/
-https://www.desde-paraguay.com/movvenus/movvenus.stream/chunks.m3u8?sessionid=16392329&exp=1776854036&k=ba771299db7a2625f191c2dad6cad37cd1de9a850eca8f6894070fc6d5ef767a
+https://www.desde-paraguay.com/movvenus/movvenus.stream/l_1385959_890020_89.aac?sessionid=16392329&exp=1776854036&k=ba771299db7a2625f191c2dad6cad37cd1de9a850eca8f6894070fc6d5ef767a
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fW9RWLpN/nanduti-logo.png" group-title="Paraguay", Ñanduti TV
 https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_baja/chunklist_w1259956548.m3u8
