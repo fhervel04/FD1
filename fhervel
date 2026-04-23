@@ -18,14 +18,18 @@ https://live-sa.streann.tech/megacadena1/megacadena1/l_1660_31470840_5237.ts?aut
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(ir3JLcjwf3qAUdjoTpAu7jf7VjD3S7RVOUS1mOzzHMXv-808DW8-a7irmc1PbWWqgKDBDorh525uecKaGZD21FGSoCeR_x_2dH1vFoI4Osr6D75FxfcaF6_xGKcI_cVbDai33TL)/cloud/3/x9ko9z8/s/live-380.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fR3wPPM9/snt.png" group-title="Paraguay", SNT
+#EXTVLCOPT:http-referrer=https://www.snt.com.py/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/medialist_4276517416086298479_hls.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4PWjZtV/latele.jpg" group-title="Paraguay", Latele
-#EXTVLCOPT:http-referrer=https://www.latele.com.py/en-vivo
+#EXTVLCOPT:http-referrer=https://www.latele.com.py/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://copacotf.desdeparaguay.net/latele/latele_py_baja/media_w156890048_1574.ts?k=30d8b4e0d998f3d3cbd411c9fd25cd56973fec0515a4c933ead5ab00ef570946&exp=1776939873
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJbMLjjd/EL-TRECE.png" group-title="Paraguay", EL TRECE
+#EXTVLCOPT:http-referrer=https://trece.com.py/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(fFmtk3mln8p5sHZHUt6-INbLSXRG5EpQ8PMCTxAH4YsYe3GkmdbgMkLQLgo9FF4E6wfwLQRxy2Ltjg8XDRAE0ShHKzQAzayaaEUW_FrZ-VqurVy_tFPOzM4k1AqnOCHH)/cloud/3/x9ksaba/s/live-380.m3u8
 
 #EXTINF:-1 tvg-id="Telefuturo.py" tvg-name="Telefuturo Paraguay" tvg-logo="https://i.postimg.cc/tCf0stxW/telefuturo.jpg" group-title="Paraguay",Telefuturo
@@ -39,6 +43,8 @@ https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8?k
 https://zn1tf.desdeparaguay.net/venusmedia/venusmedia/chunklist_w390039034.m3u8?k=5e0017c1c76050374ae91da3b1be91d2c37a04b0331143e68f308df0d55d644a&exp=1772014289
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fW9RWLpN/nanduti-logo.png" group-title="Paraguay", Ñanduti TV
+#EXTVLCOPT:http-referrer=https://nanduti.com.py/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_baja/chunklist_w1259956548.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="Paraguay", Rock & Pop Tv
@@ -51,6 +57,8 @@ https://copacotf.desdeparaguay.net/monumentaltv/monumentaltv_py_baja/media_w2063
 https://d2qsan2ut81n2k.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WpFhDSFL/union-tv.png" group-title="Paraguay", Union TV
+#EXTVLCOPT:http-referrer=https://uniontv.com.py/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Paraguay", GO TV
