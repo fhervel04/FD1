@@ -28,10 +28,9 @@ https://copacotf.desdeparaguay.net/latele/latele_py_baja/media_w156890048_1574.t
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(fFmtk3mln8p5sHZHUt6-INbLSXRG5EpQ8PMCTxAH4YsYe3GkmdbgMkLQLgo9FF4E6wfwLQRxy2Ltjg8XDRAE0ShHKzQAzayaaEUW_FrZ-VqurVy_tFPOzM4k1AqnOCHH)/cloud/3/x9ksaba/s/live-380.m3u8
 
 #EXTINF:-1 tvg-id="Telefuturo.py" tvg-name="Telefuturo" tvg-logo="https://i.postimg.cc/tCf0stxW/telefuturo.jpg" group-title="Paraguay",Telefuturo
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://www.desdeparaguay.com/
+#EXTVLCOPT:http-referrer=https://www.telefuturo.com.py/envivo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_baja/chunklist_w528324963.m3u8?k=53c2da4c6284af696579062e9831e09ea6fdffc4d8fca340158ea7b6e1c8675d&exp=1770986372
+https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8?k=37522dc97d33274dd8bed073034d71893cc26d07c142906d442a4822ddfdfb74&exp=1776940572
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sDCjLmMy/venus-media.jpg" group-title="Paraguay",Venus Media
 #KODIPROP:inputstream.adaptive.manifest_type=hls
