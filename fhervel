@@ -23,7 +23,8 @@ https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4PWjZtV/latele.jpg" group-title="Paraguay", Latele
 #EXTVLCOPT:http-referrer=https://www.latele.com.py/en-vivo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://copacotf.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?k=7febc055cb89f7eff2cc73582ba19e6da5bbcaaa2e74d01f4dab77a8d31820e7&exp=1776430475
+https://copacotf.desdeparaguay.net/latele/latele_py_baja/media_w156890048_1574.ts?k=30d8b4e0d998f3d3cbd411c9fd25cd56973fec0515a4c933ead5ab00ef570946&exp=1776939873
+https://copacotf.desdeparaguay.net/latele/latele_py_baja/chunklist_w156890048.m3u8?k=30d8b4e0d998f3d3cbd411c9fd25cd56973fec0515a4c933ead5ab00ef570946&exp=1776939873
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJbMLjjd/EL-TRECE.png" group-title="Paraguay", EL TRECE
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(fFmtk3mln8p5sHZHUt6-INbLSXRG5EpQ8PMCTxAH4YsYe3GkmdbgMkLQLgo9FF4E6wfwLQRxy2Ltjg8XDRAE0ShHKzQAzayaaEUW_FrZ-VqurVy_tFPOzM4k1AqnOCHH)/cloud/3/x9ksaba/s/live-380.m3u8
