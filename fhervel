@@ -14,7 +14,8 @@ https://live-sa.streann.tech/megacadena1/megacadena1/chunks.m3u8?auth=eyJhbGciOi
 #EXTINF:-1 tvg-id="Unicanal.py" tvg-name="Unicanal" tvg-logo="https://i.postimg.cc/NF8nGMwn/UNICANAL.jpg" group-title="Paraguay",Unicanal
 #EXTVLCOPT:http-referrer=https://www.unicanal.com.py/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(KZIzWuyfVl6Mm2kP-8LpA9sCSzY7j4vPry8eaI7oelEav5a4D9YpNKydFkX375xcgey5x06P0QQ_EME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf-4PkZtcj)/cloud/3/x9ko9z8/s/live-380.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(ir3JLcjwf3qAUdjoTpAu7jf7VjD3S7RVOUS1mOzzHMXv-808DW8-a7irmc1PbWWqgKDBDorh525uecKaGZD21FGSoCeR_x_2dH1vFoI4Osr6D75FxfcaF6_xGKcI_cVbDai33TL)/cloud/3/x9ko9z8/s/live-380.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(ir3JLcjwf3qAUdjoTpAu7jf7VjD3S7RVOUS1mOzzHMXv-808DW8-a7irmc1PbWWqgKDBDorh525uecKaGZD21FGSoCeR_x_2dH1vFoI4Osr6D75FxfcaF6_xGKcI_cVbDai33TL)/cloud/3/x9ko9z8/s/stream-380-1776783835.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fR3wPPM9/snt.png" group-title="Paraguay", SNT
 https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/medialist_4276517416086298479_hls.m3u8
