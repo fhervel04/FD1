@@ -40,7 +40,7 @@ https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8?k
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sDCjLmMy/venus-media.jpg" group-title="Paraguay",Venus Media
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://www.desdeparaguay.com/
-https://zn1tf.desdeparaguay.net/venusmedia/venusmedia/chunklist_w390039034.m3u8?k=5e0017c1c76050374ae91da3b1be91d2c37a04b0331143e68f308df0d55d644a&exp=1772014289
+https://zn1gen.desdeparaguay.net/venusmedia/venusmedia/media_w286350449_55.ts?k=1a9a617a826c86a507dd9646ced56a73147556e6dda8e30ac419da5f33c18320&exp=1778588503
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fW9RWLpN/nanduti-logo.png" group-title="Paraguay", Ñanduti TV
 #EXTVLCOPT:http-referrer=https://nanduti.com.py/
