@@ -2,16 +2,6 @@ PARAGUAY
 
 #EXTINF:-1  group-logo="https://i.postimg.cc/13cQwLzw/bandera-paraguay.jpg" tvg-id="" tvg-name=""
 
-#EXTINF:-1 tvg-id="ABCTV.py" tvg-name="ABC TV Paraguay" tvg-logo="https://i.imgur.com/tBdgllD.png" group-title="Paraguay",ABC TV Paraguay
-#EXTVLCOPT:http-referrer=https://www.abc.com.py/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(ZSCdacKFIULFpa_H93i399hcXYjHCL4vnnSRiOPW0Zp0tGIYu6wtmVoysqDrNQjQeJVi69KFAYmFvJJ3E0DpsFpgaeiC6Zd2mKm67VnUbq5cpquWbuCrghS9kpS0jTSf)/cloud/3/x9skr3m/d/live-480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRSYVxjX/megacadena.jpg" group-title="Paraguay", Megacadena
-#EXTVLCOPT:http-referrer=https://megacadena.com.py/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live-sa.streann.tech/megacadena1/megacadena1/l_20761_29377960_4892.ts?auth=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3Nzg2MTAzNTAsInJpZCI6IjVlMzQ0YTRkMmNkY2JlMWM0OWZkODU2YyIsImtleSI6ImtleTEiLCJpcCI6IjE3Ny4yNTEuMjU0LjE1IiwiY2lkIjoiNWU2MmI5NmUyY2RjZmFjMmRkODg4NWRkIn0.zDph0_3pgHW2qZyABAGwHg5TRB9FkZpReqcwSH4wzp8
-
 #EXTINF:-1 tvg-id="Unicanal.py" tvg-name="Unicanal" tvg-logo="https://i.postimg.cc/NF8nGMwn/UNICANAL.jpg" group-title="Paraguay",Unicanal
 #EXTVLCOPT:http-referrer=https://www.unicanal.com.py/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -21,11 +11,6 @@ https://live2.eu-north-1a.cf.dmcdn.net/sec2(zLgGGn5MEZgSMf1eO-5XTvfhFhOq3mIr67sJ
 #EXTVLCOPT:http-referrer=https://www.snt.com.py/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/medialist_4276517416086298479_hls.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4PWjZtV/latele.jpg" group-title="Paraguay", Latele
-#EXTVLCOPT:http-referrer=https://www.latele.com.py/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://copacotf.desdeparaguay.net/latele/latele_py_baja/media_w156890048_1574.ts?k=30d8b4e0d998f3d3cbd411c9fd25cd56973fec0515a4c933ead5ab00ef570946&exp=1776939873
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJbMLjjd/EL-TRECE.png" group-title="Paraguay", EL TRECE
 #EXTVLCOPT:http-referrer=https://trece.com.py/
@@ -49,11 +34,6 @@ https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_baja/chunklist_w1259956548.m
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="Paraguay", Rock & Pop Tv
 https://copaco.desdeparaguay.net:443/rockandpoptv/rockandpoptv_baja/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6QGc3CN1/monumental.png" group-title="Paraguay", Monumental TV
-#EXTVLCOPT:http-referrer=https://www.monumental.com.py/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://copacotf.desdeparaguay.net/monumentaltv/monumentaltv_py_baja/media_w1900176144_1990.ts?k=036ae2f11a4a3ba3a9d75e58fdb62b01PbWWqgKDBDorh525uecKaGZD21FGSoCeR&exp=1776943932
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5976yTN0/c9nlogo.jpg" group-title="Paraguay", C9N
 https://d2qsan2ut81n2k.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8
