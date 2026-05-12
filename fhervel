@@ -5,17 +5,17 @@ PARAGUAY
 #EXTINF:-1 tvg-id="ABCTV.py" tvg-name="ABC TV Paraguay" tvg-logo="https://i.imgur.com/tBdgllD.png" group-title="Paraguay",ABC TV Paraguay
 #EXTVLCOPT:http-referrer=https://www.abc.com.py/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(zJzSmzl-IPIdmSYVMhMrvGjSqWXQvRmydWsFItzzMK8qNbSQMTgSbPs5x1caEy0NiWYJwLz5ksBF5hIP1slLFjlbnM3DNs_WqzkyFhSrfhfHk5UW_6itb4WNDn3d1Amp)/cloud/3/x9skr3m/d/stream-480-1776206539.ts
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(ZSCdacKFIULFpa_H93i399hcXYjHCL4vnnSRiOPW0Zp0tGIYu6wtmVoysqDrNQjQeJVi69KFAYmFvJJ3E0DpsFpgaeiC6Zd2mKm67VnUbq5cpquWbuCrghS9kpS0jTSf)/cloud/3/x9skr3m/d/live-480.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRSYVxjX/megacadena.jpg" group-title="Paraguay", Megacadena
 #EXTVLCOPT:http-referrer=https://megacadena.com.py/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live-sa.streann.tech/megacadena1/megacadena1/l_1660_31470840_5237.ts?auth=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NzY5NjM3NzUsInJpZCI6IjVlMzQ0YTRkMmNkY2JlMWM0OWZkODU2YyIsImtleSI6ImtleTEiLCJpcCI6IjE3Ny4yNTEuMjU0LjE1IiwiY2lkIjoiNWU2MmI5NmUyY2RjZmFjMmRkODg4NWRkIn0.ZixEPiUpw-Q6lm7Slh823M5rb4eE8kOk-3_BvB0EwdM
+https://live-sa.streann.tech/megacadena1/megacadena1/l_20761_29377960_4892.ts?auth=eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3Nzg2MTAzNTAsInJpZCI6IjVlMzQ0YTRkMmNkY2JlMWM0OWZkODU2YyIsImtleSI6ImtleTEiLCJpcCI6IjE3Ny4yNTEuMjU0LjE1IiwiY2lkIjoiNWU2MmI5NmUyY2RjZmFjMmRkODg4NWRkIn0.zDph0_3pgHW2qZyABAGwHg5TRB9FkZpReqcwSH4wzp8
 
 #EXTINF:-1 tvg-id="Unicanal.py" tvg-name="Unicanal" tvg-logo="https://i.postimg.cc/NF8nGMwn/UNICANAL.jpg" group-title="Paraguay",Unicanal
 #EXTVLCOPT:http-referrer=https://www.unicanal.com.py/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(ir3JLcjwf3qAUdjoTpAu7jf7VjD3S7RVOUS1mOzzHMXv-808DW8-a7irmc1PbWWqgKDBDorh525uecKaGZD21FGSoCeR_x_2dH1vFoI4Osr6D75FxfcaF6_xGKcI_cVbDai33TL)/cloud/3/x9ko9z8/s/live-380.m3u8
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(zLgGGn5MEZgSMf1eO-5XTvfhFhOq3mIr67sJsa9CfW_CX2ZqSiCM71DX8XPtVi3BZioHB3CjBFHXWqd90YjEFOWw3Bhe4gQ4PWYntM9DxmiZn3ALkYTaGmsC2pNBA0ve)/cloud/3/x9ko9z8/s/live-380.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fR3wPPM9/snt.png" group-title="Paraguay", SNT
 #EXTVLCOPT:http-referrer=https://www.snt.com.py/
@@ -35,7 +35,7 @@ https://live2.eu-north-1b.cf.dmcdn.net/sec2(fFmtk3mln8p5sHZHUt6-INbLSXRG5EpQ8PMC
 #EXTINF:-1 tvg-id="Telefuturo.py" tvg-name="Telefuturo Paraguay" tvg-logo="https://i.postimg.cc/tCf0stxW/telefuturo.jpg" group-title="Paraguay",Telefuturo
 #EXTVLCOPT:http-referrer=https://www.telefuturo.com.py/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8?k=37522dc97d33274dd8bed073034d71893cc26d07c142906d442a4822ddfdfb74&exp=1776940572
+https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8?k=eb4c60500c6760e6773ee27b82d1464705454331549955604b07dd5f69c18817&exp=1778588919
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sDCjLmMy/venus-media.jpg" group-title="Paraguay",Venus Media
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -69,7 +69,7 @@ https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 #EXTINF:-1 tvg-id="GenTV.py" tvg-name="GEN TV" tvg-logo="https://i.postimg.cc/WbFqwCXX/gen.png" group-title="Paraguay",GEN TV
 #EXTVLCOPT:http-referrer=https://www.gen.com.py/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_baja/playlist.m3u8
+https://no.gendigi.net/origin-proxy/chunklist.m3u8
 
 ----------------------------------------------------------------
 
