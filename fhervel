@@ -2,11 +2,6 @@ PARAGUAY
 
 #EXTINF:-1  group-logo="https://i.postimg.cc/13cQwLzw/bandera-paraguay.jpg" tvg-id="" tvg-name=""
 
-#EXTINF:-1 tvg-id="Unicanal.py" tvg-name="Unicanal" tvg-logo="https://i.postimg.cc/NF8nGMwn/UNICANAL.jpg" group-title="Paraguay",Unicanal
-#EXTVLCOPT:http-referrer=https://www.unicanal.com.py/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(zLgGGn5MEZgSMf1eO-5XTvfhFhOq3mIr67sJsa9CfW_CX2ZqSiCM71DX8XPtVi3BZioHB3CjBFHXWqd90YjEFOWw3Bhe4gQ4PWYntM9DxmiZn3ALkYTaGmsC2pNBA0ve)/cloud/3/x9ko9z8/s/live-380.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fR3wPPM9/snt.png" group-title="Paraguay", SNT
 #EXTVLCOPT:http-referrer=https://www.snt.com.py/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
