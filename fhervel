@@ -46,6 +46,14 @@ https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://no.gendigi.net/origin-proxy/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Villa Elisa TV" tvg-logo="" group-title="Paraguay",Villa Elisa TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/chunklist_w873693999.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Mi TV" tvg-logo="" group-title="Paraguay",Mi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://copacogen.desdeparaguay.net/mitv/mitv/chunklist_w624504594.m3u8
+
 ----------------------------------------------------------------
 
 TIGO
