@@ -38,6 +38,7 @@ https://d2qsan2ut81n2k.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFM4w0Rk/Go-TV.png" group-title="Paraguay", GO TV
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Paraguay", GO TV
 https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 
