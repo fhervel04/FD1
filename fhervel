@@ -55,6 +55,10 @@ https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/chunklist_w8736939
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://copacogen.desdeparaguay.net/mitv/mitv/chunklist_w624504594.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.desdeparaguay.com/aspentv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://copacogen.desdeparaguay.net/aspentv/aspentv/chunklist_w1169956216.m3u8
+
 ----------------------------------------------------------------
 
 TIGO
