@@ -38,22 +38,14 @@ https://d2qsan2ut81n2k.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFM4w0Rk/Go-TV.png" group-title="Paraguay", GO TV
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Paraguay", GO TV
-https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="GenTV.py" tvg-name="GEN TV" tvg-logo="https://i.postimg.cc/WbFqwCXX/gen.png" group-title="Paraguay",GEN TV
 #EXTVLCOPT:http-referrer=https://www.gen.com.py/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://no.gendigi.net/origin-proxy/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Villa Elisa TV" tvg-logo="" group-title="Paraguay",Villa Elisa TV
+#EXTINF:-1 tvg-id="" tvg-name="Villa Elisa TV" tvg-logo="https://i.postimg.cc/ZR5RJB0L/villa-elisa-tv.jpg" group-title="Paraguay",Villa Elisa TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/chunklist_w873693999.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Mi TV" tvg-logo="" group-title="Paraguay",Mi TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://copacogen.desdeparaguay.net/mitv/mitv/chunklist_w624504594.m3u8
 
 #EXTINF:-1 tvg-id="GenTV.py" tvg-name="GEN TV" tvg-logo="https://i.postimg.cc/50W2LN7t/aspen.jpg" group-title="Paraguay",ASPEN TV
 #EXTVLCOPT:http-referrer=https://www.desdeparaguay.com/aspentv
