@@ -62,15 +62,19 @@ https://copacogen.desdeparaguay.net/aspentv/aspentv/chunklist_w1169956216.m3u8
 
 
 ----------------------------------------------------------------
-
-DEPORTES
-
-#EXTINF:-1  group-logo="https://i.postimg.cc/Y2yRxHqm/deportes.png" tvg-id="" tvg-name=""
+TELEMUNDO
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TELEMUNDO",Telemundo Los Angeles CA
 https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TELEMUNDO",Telemundo Puerto Rico (WKAQ)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
+----------------------------------------------------------------
+
+DEPORTES
+
+#EXTINF:-1  group-logo="https://i.postimg.cc/Y2yRxHqm/deportes.png" tvg-id="" tvg-name=""
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 1
 http://186.33.40.97:8789/play/20
