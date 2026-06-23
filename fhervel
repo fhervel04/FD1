@@ -64,13 +64,13 @@ https://copacogen.desdeparaguay.net/aspentv/aspentv/chunklist_w1169956216.m3u8
 ----------------------------------------------------------------
 TELEMUNDO
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TELEMUNDO",Telemundo Los Angeles CA
+#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://i.postimg.cc/wxnvYrVR/Telemundo-logo.jpg" group-title="TELEMUNDO",Telemundo Los Angeles CA
 https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TELEMUNDO",Telemundo Puerto Rico (WKAQ)
+#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://i.postimg.cc/wxnvYrVR/Telemundo-logo.jpg" group-title="TELEMUNDO",Telemundo Puerto Rico (WKAQ)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TELEMUNDO",Telemundo
+#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://i.postimg.cc/wxnvYrVR/Telemundo-logo.jpg" group-title="TELEMUNDO",Telemundo
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459&ads.asnw=169843&ads.afid=442535792&ads.sfid=23780352&ads.caid=telemundodeportesahora_linear&ads.csid=xumo_
 
 ----------------------------------------------------------------
