@@ -65,6 +65,12 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://i.postimg.cc/wxnvYrVR/Telemundo-logo.jpg" group-title="TELEMUNDO",Telemundo
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459&ads.asnw=169843&ads.afid=442535792&ads.sfid=23780352&ads.caid=telemundodeportesahora_linear&ads.csid=xumo_
 
+#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://i.postimg.cc/wxnvYrVR/Telemundo-logo.jpg" group-title="TELEMUNDO",Telemundo East
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://i.postimg.cc/wxnvYrVR/Telemundo-logo.jpg" group-title="TELEMUNDO",Telemundo 51 HD
+http://168.228.44.241:9999/play/a02g/index.m3u8
+
 ----------------------------------------------------------------
 
 DEPORTES
