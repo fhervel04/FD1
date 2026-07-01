@@ -52,8 +52,11 @@ https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/chunklist_w8736939
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://copacogen.desdeparaguay.net/aspentv/aspentv/chunklist_w1169956216.m3u8
 
+#EXTINF:-1 tvg-id="GenTV.py" tvg-name="GEN TV" tvg-logo="https://i.postimg.cc/wM4D6yqG/abc-tv.jpg" group-title="Paraguay",ABC TV
+#EXTVLCOPT:http-referrer=https://www.abc.com.py/tv/video/x9skr3m/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(YOkx5_oN94pmL_38ypqYBEONxik-G_dAQXWNgh5hePqKu6siCUkzbChzj7t2r0s-PPbz53m8AFeAVRn1OO6gUDAwbNnQz859qBeStjAcdL5FY8jLSJZWRg0nivJnbWbr)/cloud/3/x9skr3m/d/live-480.m3u8
 
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(ABC)/index.m3u8
 
 ----------------------------------------------------------------
 TELEMUNDO
