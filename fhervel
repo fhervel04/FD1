@@ -95,3 +95,9 @@ a8d8bfb76315e4fc6ba1328e1d8870bd:eb27c40de4c406980e473fb6233fc897
 
 https://sam-py-edge05.tigo.com.py/ccur-session/7f6e3fdb59994965abed8dd5c6faccf517487270122031b65a320aeed11ebae01d90082191a3c1a5MrOL1SVX7zpX7GuV2tRmo/VMX4_widevine/rolling-buffer/TigoSports3HDPY/TigoSports3HDPY/transmux/index.mpd
 f62e93559765dfa6a89d2842b2b6d64a:9f6a8cf0bcb1d17ce79ea93d0d9c3d83
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe HD (ARG)" tvg-logo="https://yt3.ggpht.com/Bad3GqpyvghQQ9OvPHbiuU2CKCZrUwJCkCs5as1ypmYEWgQGtb5Fn_QKxvgv_XqDUfTFa2g8=s48-c-k-c0x00ffffff-no-rj" tvg-country="AR" tvg-language="Spanish" group-title="Variedades", Telefe HD (ARG)
+https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+
+#EXTINF:-1 tvg-id="Canal9Televida.ar" tvg-name="CANAL 9 HD" tvg-logo="https://yt3.ggpht.com/grbLuho2_3nxkMrr0h1l-pczGcf5qgskRU-5zb8SvB2ZT2MVeeFQNvowGjU6CPX1a3diHloZXA=s48-c-k-c0x00ffffff-no-rj" tvg-country="AR" tvg-language="Spanish" group-title="Variedades", CANAL 9 HD
+https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
